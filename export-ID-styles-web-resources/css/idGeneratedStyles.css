@@ -1,0 +1,287 @@
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+div.CaptionBox_Static_Garamond {
+	border-style:solid;
+}
+div.Basic-Graphics-Frame {
+	border-color:#000000;
+	border-width:1px;
+	border-style:solid;
+}
+div.Basic-Text-Frame {
+	border-style:solid;
+}
+p.AuthorName_ByLine {
+	color:#000000;
+	font-family:"BentonSans Book", sans-serif;
+	font-size:18px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.BodyText_BentonSansBook_12-21 {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"BentonSans Book", sans-serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.75;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:18px;
+	text-transform:none;
+	widows:2;
+}
+p.BookTitle_Q-Z {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"BentonSans Bold", sans-serif;
+	font-size:36px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1.2;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.Caption_Garamond_10-14 {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:Garamond, serif;
+	font-size:10px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:2;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:2;
+}
+p.Subhead_BentonSansMedium_12-21 {
+	-epub-hyphens:none;
+	color:#000000;
+	font-family:"BentonSans Medium", sans-serif;
+	font-size:12px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:500;
+	line-height:1.75;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:14px;
+	orphans:1;
+	page-break-after:avoid;
+	page-break-before:auto;
+	text-align:left;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+span.GlossaryWord_Bold {
+	font-family:"BentonSans Medium", sans-serif;
+	font-style:normal;
+	font-weight:500;
+}
+span.NoBreak {
+	text-decoration:none;
+}
+p.ParaOverride-1 {
+	margin-top:9px;
+	page-break-after:always;
+}
+p.ParaOverride-2 {
+	margin-top:9px;
+}
+span.CharOverride-1 {
+	color:#f7941e;
+	font-family:"ITC Motter Corpus Std SemiCond", sans-serif;
+	font-size:34px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-2 {
+	font-family:"ITC Motter Corpus Std Condensed", sans-serif;
+	font-size:12px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-3 {
+	font-style:normal;
+	font-weight:normal;
+}
+p._idGenParaOverride-1 {
+	page-break-after:always;
+}
+#_idContainer000 {
+	-ms-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:26.51px;
+	left:0px;
+	overflow:hidden;
+	position:absolute;
+	top:0px;
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(0.000px,0.000px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:288.39px;
+	z-index:1;
+}
+#_idContainer001 {
+	-ms-transform:translate(81.442px,41.320px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:0% 0%;
+	-webkit-transform:translate(81.442px,41.320px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:0% 0%;
+	height:11.27px;
+	left:0px;
+	overflow:hidden;
+	position:absolute;
+	top:0px;
+	transform:translate(81.442px,41.320px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(81.442px,41.320px) rotate(0.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:0% 0%;
+	transform-origin:0% 0%;
+	width:125.51px;
+	z-index:0;
+}
+#_idContainer002 {
+	display:inline-block;
+	height:53px;
+	position:relative;
+	width:288px;
+}
+#_idContainer005 {
+	display:inline-block;
+	height:263px;
+	width:309px;
+}
+#_idContainer006 {
+	-ms-transform:translate(0.000px,0.000px) rotate(90.000deg) skew(0.000deg) scale(1.000,1.000);
+	-ms-transform-origin:50% 50%;
+	-webkit-transform:translate(0.000px,0.000px) rotate(90.000deg) skew(0.000deg) scale(1.000,1.000);
+	-webkit-transform-origin:50% 50%;
+	display:inline-block;
+	height:468px;
+	transform:translate(0.000px,0.000px) rotate(90.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform:translate(0.000px,0.000px) rotate(90.000deg) skew(0.000deg) scale(1.000,1.000);
+	transform-origin:50% 50%;
+	transform-origin:50% 50%;
+	width:138px;
+}
+#_idContainer007 {
+	display:inline-block;
+	height:93px;
+	width:288px;
+}
+#_idContainer011 {
+	display:inline-block;
+	height:34px;
+	position:relative;
+	width:40px;
+}
+#_idContainer012 {
+	display:inline-block;
+	height:41px;
+	position:relative;
+	width:86px;
+}
+#_idContainer014 {
+	display:inline-block;
+	height:23px;
+	position:relative;
+	width:14px;
+}
+#_idContainer016 {
+	display:inline-block;
+	height:24px;
+	position:relative;
+	width:6px;
+}
+#_idContainer018 {
+	display:inline-block;
+	height:14px;
+	position:relative;
+	width:8px;
+}
+#_idContainer019 {
+	display:inline-block;
+	height:340px;
+	width:402px;
+}
+#_idContainer021 {
+	display:inline-block;
+	height:241px;
+	width:328px;
+}
+img._idGenObjectAttribute-1 {
+	height:100.00%;
+	min-width:100%;
+	width:100.00%;
+}
+div._idGenObjectStyleOverride-1 {
+	border-width:0px;
+}
+div._idGenObjectStyleOverride-2 {
+	border-color:#000000;
+	border-width:1px;
+}
+div._idGenObjectStyleOverride-3 {
+	border-width:1px;
+}
+div._idGenObjectLayout-1 {
+	text-align:center;
+}
+div._idGenObjectLayout-2 {
+	margin:-165px 165px -165px 165px;
+}
